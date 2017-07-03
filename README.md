@@ -10,7 +10,7 @@ hyperapp-package is virgo HyperApp package starter.
 Using [npm](https://npmjs.com):
 
 <pre>
-npm i <a href="https://www.npmjs.com/package/hyperapp-PACKAGE">hyperapp-PACKAGEr</a>
+npm i <a href="https://www.npmjs.com/package/hyperapp-PACKAGE">hyperapp-PACKAGE</a>
 </pre>
 
 Then setup a [build pipeline](https://github.com/hyperapp/hyperapp/blob/master/docs/getting-started.md#build-pipeline) and import it.

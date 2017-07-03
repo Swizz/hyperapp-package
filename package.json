@@ -1,6 +1,6 @@
 {
   "name": "hyperapp-PACKAGE",
-  "description": "...",
+  "description": "A virgo HyperApp package starter",
   "version": "0.0.1",
   "main": "dist/PACKAGE.js",
   "jsnext:main": "src/index.js",

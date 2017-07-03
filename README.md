@@ -4,7 +4,7 @@
 [![npm](https://img.shields.io/npm/v/hyperapp-PACKAGE.svg)](https://www.npmjs.org/package/PACKAGE)
 [![Slack](https://hyperappjs.herokuapp.com/badge.svg)](https://hyperappjs.herokuapp.com "Join us")
 
-hyperapp-package ...
+hyperapp-package is virgo HyperApp package starter.
 ## Installation
 
 Using [npm](https://npmjs.com):
